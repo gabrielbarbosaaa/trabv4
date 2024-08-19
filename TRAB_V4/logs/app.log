@@ -1,0 +1,91 @@
+[2024-08-05 04:57:39] Usuário 'admin' logado com sucesso.
+[2024-08-05 05:02:03] Usuário 'aluno' logado com sucesso.
+[2024-08-05 05:04:08] Usuário 'aluno' realizou logout.
+[2024-08-05 05:05:02] Tentativa de login falhou: Credenciais incorretas para usuário 'cris'.
+[2024-08-05 05:05:10] Usuário 'cris' logado com sucesso.
+[2024-08-05 05:05:16] Usuário 'cris' realizou logout.
+[2024-08-05 05:05:56] Usuário 'cris' logado com sucesso.
+[2024-08-05 05:06:00] Usuário 'cris' realizou logout.
+[2024-08-05 05:09:35] Usuário 'admin' logado com sucesso.
+[2024-08-05 05:09:50] Backup criado com sucesso: backup_2024-08-05_05-09-50.csv
+[2024-08-05 05:10:05] Backup criado com sucesso: backup_2024-08-05_05-10-05.csv
+[2024-08-05 05:10:09] Usuário 'admin' realizou logout.
+[2024-08-05 05:12:43] Usuário 'adm' logado com sucesso.
+[2024-08-05 05:13:27] Backup criado com sucesso: backup_2024-08-05_05-13-27.csv. Usuário: adm.
+[2024-08-05 05:13:45] Backup criado com sucesso: backup_2024-08-05_05-13-45.csv. Usuário: adm.
+[2024-08-05 05:13:50] Usuário 'adm' realizou logout.
+[2024-08-05 05:17:49] Usuário 'adm' logado com sucesso.
+[2024-08-05 05:18:58] Backup criado com sucesso: backup_2024-08-05_05-18-58.csv para o usuário 'adm'.
+[2024-08-05 05:19:01] Usuário 'adm' realizou logout.
+[2024-08-05 16:03:20] Usuário 'cris' logado com sucesso.
+[2024-08-05 16:03:53] Usuário 'cris' realizou logout.
+[2024-08-05 16:06:20] Tentativa de login falhou: Credenciais incorretas para usuário 'admin'.
+[2024-08-05 16:06:43] Usuário 'admin' logado com sucesso.
+[2024-08-05 16:07:00] Backup criado com sucesso: backup_2024-08-05_16-07-00.csv para o usuário 'admin'.
+[2024-08-05 16:07:12] Usuário 'admin' realizou logout.
+[2024-08-09 18:30:47] Usuário 'admin' logado com sucesso.
+[2024-08-09 18:31:03] Backup criado com sucesso: backup_2024-08-09_18-31-03.csv para o usuário 'admin'.
+[2024-08-09 18:31:53] Usuário 'admin' realizou logout.
+[2024-08-15 00:36:58] Usuário 'admin' logado com sucesso.
+[2024-08-15 00:38:09] Usuário 'admin' logado com sucesso.
+[2024-08-15 00:40:02] Usuário 'admin' logado com sucesso.
+[2024-08-15 01:02:13] Usuário 'aluno' logado com sucesso.
+[2024-08-15 01:02:31] Usuário 'aluno' realizou logout.
+[2024-08-15 01:02:42] Usuário 'cris' logado com sucesso.
+[2024-08-15 01:02:48] Usuário 'cris' realizou logout.
+[2024-08-15 01:23:13] Usuário 'admin' logado com sucesso.
+[2024-08-15 01:23:21] Usuário 'admin' realizou logout.
+[2024-08-15 01:23:58] Novo usuário registrado: raquel, E-mail: raquel.russi@gmail.com
+[2024-08-15 01:24:10] Usuário 'raquel' logado com sucesso.
+[2024-08-15 01:24:12] Usuário 'raquel' realizou logout.
+[2024-08-15 01:33:07] Novo usuário registrado: churras, E-mail: churras@rol.com
+[2024-08-15 01:33:20] Usuário 'churras' logado com sucesso.
+[2024-08-15 01:33:22] Usuário 'churras' realizou logout.
+[2024-08-15 01:34:16] Usuário 'churras' logado com sucesso.
+[2024-08-15 01:34:59] Usuário 'churras' realizou logout.
+[2024-08-15 01:46:50] Novo usuário registrado: cafofo, E-mail: cafofo@uol.com
+[2024-08-15 01:46:58] Usuário 'cafofo' logado com sucesso.
+[2024-08-15 01:47:02] Usuário 'cafofo' realizou logout.
+[2024-08-15 20:03:28] Novo usuário registrado: rei, E-mail: rei@teste
+[2024-08-15 20:04:06] Novo usuário registrado: bispo, E-mail: bispo@teste
+[2024-08-15 20:05:25] Usuário 'rei' logado com sucesso.
+[2024-08-15 20:08:25] Usuário 'rei' realizou logout.
+[2024-08-15 20:08:38] Usuário 'rei' logado com sucesso.
+[2024-08-15 20:08:51] Backup criado com sucesso: backup_2024-08-15_20-08-51.csv para o usuário 'rei'.
+[2024-08-15 20:09:33] Usuário 'rei' realizou logout.
+[2024-08-19 19:11:21] Usuário 'admin' logado com sucesso.
+[2024-08-19 19:12:21] Backup criado com sucesso: backup_2024-08-19_19-12-21.csv para o usuário 'admin'.
+[2024-08-19 19:15:36] Usuário 'admin' realizou logout.
+[2024-08-19 19:25:13] Usuário 'bispo' logado com sucesso.
+[2024-08-19 19:25:27] Usuário 'bispo' realizou logout.
+[2024-08-19 19:35:47] Usuário 'bispo' logado com sucesso.
+[2024-08-19 19:35:55] Usuário 'bispo' realizou logout.
+[2024-08-19 19:41:45] Novo usuário registrado: king, E-mail: king@gmail.com
+[2024-08-19 19:42:35] Usuário 'king' logado com sucesso.
+[2024-08-19 19:43:19] Usuário 'king' realizou logout.
+[2024-08-19 19:43:29] Usuário 'rei' logado com sucesso.
+[2024-08-19 19:43:34] Usuário 'rei' realizou logout.
+[2024-08-19 20:12:18] Usuário 'bispo' logado com sucesso.
+[2024-08-19 20:12:30] Usuário 'bispo' realizou logout.
+[2024-08-19 20:15:42] Tentativa de login falhou: Credenciais incorretas para usuário 'bispo'.
+[2024-08-19 20:15:58] Usuário 'bispo' logado com sucesso.
+[2024-08-19 20:16:04] Tentativa de login falhou: CSRF inválido para usuário 'bispo'.
+[2024-08-19 20:16:49] Usuário 'bispo' logado com sucesso.
+[2024-08-19 20:17:05] Usuário 'bispo' realizou logout.
+[2024-08-19 20:36:16] Usuário 'bispo' logado com sucesso.
+[2024-08-19 20:36:39] Usuário 'bispo' realizou logout.
+[2024-08-19 20:38:44] Usuário 'bispo' logado com sucesso.
+[2024-08-19 20:39:28] Usuário 'bispo' realizou logout.
+[2024-08-19 20:40:51] Usuário 'bispo' logado com sucesso.
+[2024-08-19 20:41:04] Usuário 'bispo' realizou logout.
+[2024-08-19 20:41:12] Tentativa de login falhou: Credenciais incorretas para usuário 'rei'.
+[2024-08-19 20:41:30] Usuário 'rei' logado com sucesso.
+[2024-08-19 20:41:46] Usuário 'rei' realizou logout.
+[2024-08-19 20:43:24] Usuário 'bispo' logado com sucesso.
+[2024-08-19 20:43:32] Usuário 'bispo' realizou logout.
+[2024-08-19 20:44:19] Tentativa de login falhou: Credenciais incorretas para usuário 'rei'.
+[2024-08-19 20:44:33] Usuário 'rei' logado com sucesso.
+[2024-08-19 20:46:02] Usuário 'rei' realizou logout.
+[2024-08-19 20:46:59] Tentativa de login falhou: Credenciais incorretas para usuário 'rei'.
+[2024-08-19 20:47:08] Usuário 'rei' logado com sucesso.
+[2024-08-19 20:47:10] Usuário 'rei' realizou logout.

@@ -1,0 +1,7 @@
+id,username,email,senha,autenticacao_habilitada,codigo_autenticacao,criado_em,perfil
+1,admin,admin@uol.com,$2y$10$m2HHMQn2vZpxLopCaPW2A.iQ5sjXV6NtBkY9F9pLEMBJm3eS.AmIW,0,,"2024-07-02 14:30:34",admin
+2,outro,outro@uol.com,$2y$10$fEMhX34jshpc3Sb3wN/yt.aK5TysNNXf8PkfdHAFEvv3exlADvF2W,1,,"2024-07-02 14:32:44",user
+3,Ana,ana@uol.com,$2y$10$3gDH8AY.fF32NlhBKvsr3.2Yu2v3wjuzEYgGy9dAgQEEvPUCAIHHC,1,,"2024-07-04 16:47:16",user
+4,Daniel,daniel@gmail.com,$2y$10$p6HUN2dWK4RMyFP/QJsRHOmABYRI3BZKGlsGcK0X8tEOethJkezQG,1,,"2024-07-12 14:39:07",user
+5,rei,rei@teste,$2y$10$ezRbtRG5uCoanruytiH9H.M3UAhSJTkSp/PisDrxkIJj6WGuC0IH.,0,847835,"2024-08-15 15:03:28",admin
+6,bispo,bispo@teste,$2y$10$tn1W8yIWeiJ8dpOH2eED5ucSBI85DPo0KRD2TrhJF3jozynN/tOFe,1,691418,"2024-08-15 15:04:06",user
